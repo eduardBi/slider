@@ -1,2 +1,0 @@
-[0122/144021.145:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������� �� ������� ����� ��������� ����. (0x3)
-print 
