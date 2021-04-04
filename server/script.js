@@ -14,6 +14,7 @@ slider.addEventListener('mousemove',(e)=>{
     let persantegeOfsliderFill=e.offsetX/sliderWidth
     slider.value=Math.floor(minValue+persantegeOfsliderFill*range) 
     arraysValue.push(slider.value)
+    //
 })
 
 let arraysValue=[];
